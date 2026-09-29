@@ -4,16 +4,16 @@ Static website for the CHI 2027 workshop "Delegated Selves: Privacy, Security, a
 
 ## Recommended GitHub Pages setup
 
-Suggested repository name:
+Repository name:
 
 ```text
 chi27-delegated-selves
 ```
 
-This gives a meaningful GitHub Pages URL:
+The site is published from the `gh-pages` branch, which gives this GitHub Pages URL:
 
 ```text
-https://<github-username>.github.io/chi27-delegated-selves/
+https://maying0120.github.io/chi27-delegated-selves/
 ```
 
 If the workshop later gets a custom domain, good candidates are:
