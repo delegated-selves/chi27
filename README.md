@@ -7,13 +7,13 @@ Static website for the CHI 2027 workshop "Delegated Selves: Privacy, Security, a
 Repository name:
 
 ```text
-chi27-delegated-selves
+delegated-selves/chi27
 ```
 
 The site is published from the `gh-pages` branch, which gives this GitHub Pages URL:
 
 ```text
-https://maying0120.github.io/chi27-delegated-selves/
+https://delegated-selves.github.io/chi27/
 ```
 
 If the workshop later gets a custom domain, good candidates are:
